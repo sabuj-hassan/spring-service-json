@@ -38,7 +38,7 @@ This is a sample Spring service that accepts some JSON request and produces JSON
 
 
 
----------------------- SOME SAMPLE POST JSON I used using CURL
+---------------------- SOME SAMPLE POST JSON I have used with php-CURL
 
     $url = "http://localhost:8080/spring-service/createcar.json";
     $param = '{"car":{"carId":0,"registrationId":"RX32328801","make":"Toyota","model":"RAV4","year":"1991-10-10","color":"RED","description":"some desc text goes here!","carAttributeList":null}}';
