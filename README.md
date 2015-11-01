@@ -1,7 +1,7 @@
 # spring-service-json
 This is a sample Spring service that accepts some JSON request and produces JSON response through the HTTP.
 
-1) Minimul requirements:
+1) Minimal requirements:
 
     IDE used: Netbeans 7.0
     Java version: 1.8
